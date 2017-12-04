@@ -1,6 +1,6 @@
-# Mobile App in Ionic 3 
+# Mobile App in Ionic 3 for Push Notifications 
 
-> An Ionic project fro recieving push notifications with OneSignal
+> An Ionic project for recieving push notifications with OneSignal
 
 ## Install
 
