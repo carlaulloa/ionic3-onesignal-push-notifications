@@ -1,1 +1,1 @@
-# ionic-push
+# Ionic 3 Push Notifications with OneSignal & Node.js
