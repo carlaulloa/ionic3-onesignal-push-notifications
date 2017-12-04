@@ -16,12 +16,6 @@ $ npm i
 $ npm start
 ```
 
-## Author
-
-**Carla Ulloa**
-
-* [github/](https://github.com/)
-
 ## License
 
 Copyright © 2017 [Carla Ulloa](#Carla Ulloa)
